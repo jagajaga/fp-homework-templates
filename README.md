@@ -4,13 +4,15 @@
 
 Template Haskell homework project for [FP ITMO course](https://github.com/jagajaga/FP-course-ITMO).
 
-## Usage
+## This fork is intended to provide template for `stack new` command
 
-You can clone this project directly or use stack templating engine:
+Execute
 
-`stack new fp-homework https://raw.githubusercontent.com/ChShersh/fp-homework-templates/master/fp-homework.hsfiles`
+`stack new fp-homework https://raw.githubusercontent.com/sandwwraith/fp-homework-templates/master/fp-homework.hsfiles`
 
-Before that, you have to define several parameters in `~/.stack/config.yaml`:
+That's it, you're all set!
+
+Before that, it's better to define several parameters in `~/.stack/config.yaml`:
 
 ```yaml
 templates:
