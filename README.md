@@ -1,6 +1,6 @@
 # fp-homework-templates
 
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chsersh/fp-homework-templates/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/pva701/fp-homework-templates/blob/master/LICENSE)
 
 Template Haskell homework project for [FP ITMO course](https://github.com/jagajaga/FP-course-ITMO).
 
@@ -8,7 +8,7 @@ Template Haskell homework project for [FP ITMO course](https://github.com/jagaja
 
 Execute
 
-`stack new fp-homework https://raw.githubusercontent.com/sandwwraith/fp-homework-templates/master/fp-homework.hsfiles`
+`stack new fp-homework https://raw.githubusercontent.com/pva701/fp-homework-templates/master/fp-homework.hsfiles`
 
 That's it, you're all set!
 
