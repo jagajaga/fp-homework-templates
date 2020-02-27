@@ -8,7 +8,7 @@ Template Haskell homework project for [FP ITMO course](https://github.com/jagaja
 
 Execute
 
-`stack new fp-homework https://raw.githubusercontent.com/pva701/fp-homework-templates/master/fp-homework.hsfiles`
+`stack new fp-homework https://raw.githubusercontent.com/jagajaga/fp-homework-templates-2020/master/fp-homework.hsfiles`
 
 That's it, you're all set!
 
